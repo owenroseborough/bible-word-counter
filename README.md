@@ -1,1 +1,1 @@
-# bible-word-counter
+Hello, welcome to Bible Word Counter (BWC) back-end
