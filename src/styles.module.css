@@ -1,0 +1,14 @@
+.body {
+    width: 600px;
+    margin: auto;
+    margin-top: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    .body {
+      width: 95%;
+    }
+}

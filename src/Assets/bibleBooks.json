@@ -1,0 +1,398 @@
+[
+    {
+        "name": "Genesis",
+        "numChapters": 50,
+        "numVerses": 1533,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Exodus",
+        "numChapters": 40,
+        "numVerses": 1213,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Leviticus",
+        "numChapters": 27,
+        "numVerses": 859,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Numbers",
+        "numChapters": 36,
+        "numVerses": 1288,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Deuteronomy",
+        "numChapters": 34,
+        "numVerses": 959,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Joshua",
+        "numChapters": 24,
+        "numVerses": 658,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Judges",
+        "numChapters": 21,
+        "numVerses": 618,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Ruth",
+        "numChapters": 4,
+        "numVerses": 85,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "1 Samuel",
+        "numChapters": 31,
+        "numVerses": 810,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "2 Samuel",
+        "numChapters": 24,
+        "numVerses": 695,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "1 Kings",
+        "numChapters": 22,
+        "numVerses": 816,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "2 Kings",
+        "numChapters": 25,
+        "numVerses": 719,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "1 Chronicles",
+        "numChapters": 29,
+        "numVerses": 942,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "2 Chronicles",
+        "numChapters": 36,
+        "numVerses": 822,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Ezra",
+        "numChapters": 10,
+        "numVerses": 280,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Nehemiah",
+        "numChapters": 13,
+        "numVerses": 406,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Esther",
+        "numChapters": 10,
+        "numVerses": 167,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Job",
+        "numChapters": 42,
+        "numVerses": 1070,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Psalms",
+        "numChapters": 150,
+        "numVerses": 2461,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Proverbs",
+        "numChapters": 31,
+        "numVerses": 915,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Ecclesiastes",
+        "numChapters": 12,
+        "numVerses": 222,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Song of Solomon",
+        "numChapters": 8,
+        "numVerses": 117,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Isaiah",
+        "numChapters": 66,
+        "numVerses": 1292,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Jeremiah",
+        "numChapters": 52,
+        "numVerses": 1364,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Lamentations",
+        "numChapters": 5,
+        "numVerses": 154,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Ezekiel",
+        "numChapters": 48,
+        "numVerses": 1273,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Daniel",
+        "numChapters": 12,
+        "numVerses": 357,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Hosea",
+        "numChapters": 14,
+        "numVerses": 197,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Joel",
+        "numChapters": 3,
+        "numVerses": 73,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Amos",
+        "numChapters": 9,
+        "numVerses": 146,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Obadiah",
+        "numChapters": 1,
+        "numVerses": 21,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Jonah",
+        "numChapters": 4,
+        "numVerses": 48,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Micah",
+        "numChapters": 7,
+        "numVerses": 105,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Nahum",
+        "numChapters": 3,
+        "numVerses": 47,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Habakkuk",
+        "numChapters": 3,
+        "numVerses": 56,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Zephaniah",
+        "numChapters": 3,
+        "numVerses": 53,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Haggai",
+        "numChapters": 2,
+        "numVerses": 38,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Zechariah",
+        "numChapters": 14,
+        "numVerses": 211,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Malachi",
+        "numChapters": 4,
+        "numVerses": 55,
+        "sectionOfBible": "Old Testament"
+    },
+    {
+        "name": "Matthew",
+        "numChapters": 28,
+        "numVerses": 1071,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "Mark",
+        "numChapters": 16,
+        "numVerses": 678,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "Luke",
+        "numChapters": 24,
+        "numVerses": 1151,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "John",
+        "numChapters": 21,
+        "numVerses": 879,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "Acts",
+        "numChapters": 28,
+        "numVerses": 1007,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "Romans",
+        "numChapters": 16,
+        "numVerses": 433,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "1 Corinthians",
+        "numChapters": 16,
+        "numVerses": 437,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "2 Corinthians",
+        "numChapters": 13,
+        "numVerses": 257,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "Galatians",
+        "numChapters": 6,
+        "numVerses": 149,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "Ephesians",
+        "numChapters": 6,
+        "numVerses": 155,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "Philippians",
+        "numChapters": 4,
+        "numVerses": 104,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "Colossians",
+        "numChapters": 4,
+        "numVerses": 95,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "1 Thessalonians",
+        "numChapters": 5,
+        "numVerses": 89,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "2 Thessalonians",
+        "numChapters": 3,
+        "numVerses": 47,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "1 Timothy",
+        "numChapters": 6,
+        "numVerses": 113,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "2 Timothy",
+        "numChapters": 4,
+        "numVerses": 83,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "Titus",
+        "numChapters": 3,
+        "numVerses": 46,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "Philemon",
+        "numChapters": 1,
+        "numVerses": 25,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "Hebrews",
+        "numChapters": 13,
+        "numVerses": 303,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "James",
+        "numChapters": 5,
+        "numVerses": 108,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "1 Peter",
+        "numChapters": 5,
+        "numVerses": 105,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "2 Peter",
+        "numChapters": 3,
+        "numVerses": 61,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "1 John",
+        "numChapters": 5,
+        "numVerses": 105,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "2 John",
+        "numChapters": 1,
+        "numVerses": 13,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "3 John",
+        "numChapters": 1,
+        "numVerses": 14,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "Jude",
+        "numChapters": 1,
+        "numVerses": 25,
+        "sectionOfBible": "New Testament"
+    },
+    {
+        "name": "Revelation",
+        "numChapters": 22,
+        "numVerses": 404,
+        "sectionOfBible": "New Testament"
+    }
+]
